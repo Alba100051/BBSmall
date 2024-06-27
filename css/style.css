@@ -39,3 +39,10 @@ ul.nav_menu{
     padding: 100px;
 
 }
+
+
+@media (max-width: 768px){
+        .navbar .nav_menu{
+            display: none;
+        }
+}
