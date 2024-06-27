@@ -25,7 +25,7 @@ ul.nav_menu{
     list-style-type: none;
 }
 
-.nav_item{
+.nav_item a {
     margin-right: 10px;
     color: white;
 }
