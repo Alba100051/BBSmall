@@ -22,13 +22,12 @@ body{
 
 ul.nav_menu{
     display: inline-flex;
-    color: white;
     list-style-type: none;
 }
 
 .nav_item{
     margin-right: 10px;
-    
+    color: white;
 }
 
 .hero{
