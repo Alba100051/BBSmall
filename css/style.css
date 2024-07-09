@@ -32,11 +32,30 @@ ul.nav_menu{
 
 .hero{
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 50% 50% ;
 }
 .hero_title{
     padding: 100px;
-
+    padding-top: 60px;
+}
+.gallery{
+    grid-template-columns: 20% 20%;
+    background-color: gray;
+    
+}
+.gallery h2{
+    text-align: center;
+}
+.gallery_title{
+    padding: 100px;
+    padding-right: 60%;
+   
+}
+.gallery_img{
+    display: flex;
+    width: 80px;
+    height: 170px;
+    
 }
 
 
